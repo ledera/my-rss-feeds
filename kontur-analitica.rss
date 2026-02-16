@@ -1,2 +1,197 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Контур — Новости аналитики</title><link>https://kontur.ru/press/news/analitica</link><description>Аналитические материалы и исследования от Контур</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Mon, 16 Feb 2026 06:20:45 +0000</lastBuildDate></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Контур — Новости аналитики</title>
+    <link>https://kontur.ru/press/news/analitica</link>
+    <description>Аналитические материалы и исследования от Контур</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Mon, 16 Feb 2026 07:02:22 +0000</lastBuildDate>
+    <item>
+      <title>Кемпинг и квартира вместо ресепшена: как меняется рынок размещения в России</title>
+      <link>https://kontur.ru/press/news/81789-kemping_i_kvartira_vmesto_resepshena</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сумма затрат на закупки учебников уменьшились на 10% в 2025 году</title>
+      <link>https://kontur.ru/press/news/81816-summa_zatrat_na_zakupki_uchebnikov</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Красота в РФ: популярность российских брендов растет</title>
+      <link>https://kontur.ru/press/news/81823-krasota_v_rf</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Закупки вакцин от гриппа‑2025: почему снизились затраты</title>
+      <link>https://kontur.ru/press/news/81833-zakupki_vakcin_ot_grippa</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>На рынке секонд-хенда штиль</title>
+      <link>https://kontur.ru/press/news/81896-na_rynke_sekond_xenda_shtil</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Осенние напитки: погодная аномалия сказалась на спросе</title>
+      <link>https://kontur.ru/press/news/81939-osennie_napitki</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>В сфере пассажирских перевозок идет консолидация</title>
+      <link>https://kontur.ru/press/news/82069-v_sfere_passazhirskix_perevozok_idet_konsolidaciya</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Красная и черная</title>
+      <link>https://kontur.ru/press/news/82140-krasnaya_i_chernaya</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Привычка курить: дымная осень 2025</title>
+      <link>https://kontur.ru/press/news/82175-privychka_kurit_dymnaya_osen</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ушли красиво</title>
+      <link>https://kontur.ru/press/news/82452-ushli_krasivo</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Магазинов больше, темп роста ниже: что происходит в табачной рознице</title>
+      <link>https://kontur.ru/press/news/82461-magazinov_bolshe_temp_rosta_nizhe</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Госзаказ на киберзащиту: траты на ИБ-услуги выросли на 68% за два года</title>
+      <link>https://kontur.ru/press/news/82553-goszakaz_na_kiberzashchitu</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>За 4 года российская гостиничная отрасль выросла на 20%</title>
+      <link>https://kontur.ru/press/news/82578-za_4_goda_rossijskaya_gostinichnaya_otrasl_vyrosla_na_20</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Селедка под шубой как символ уютного Нового года</title>
+      <link>https://kontur.ru/press/news/82688-seledka_pod_shuboy</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>После ухода брендов: число продавцов автомобилей в России за 3 года выросло на 15%</title>
+      <link>https://kontur.ru/press/news/82833-posle_uhoda_brendov</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Индекс «Оливье»: сколько стоит главный новогодний салат России</title>
+      <link>https://kontur.ru/press/news/82944-skolko_stoit_glavnyy_novogodniy_salat_rossii</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Рынок ветеринарных услуг вырос на 57,73% за четыре года</title>
+      <link>https://kontur.ru/press/news/82945-rynok_veterinarnyh_uslug_vyros</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>В этом году для новогоднего горячего блюда чаще выбирают курицу</title>
+      <link>https://kontur.ru/press/news/82946-dlya_novogodnego_blyuda_vybirayut_kuricu</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мандарины на Новый год</title>
+      <link>https://kontur.ru/press/news/82940-mandariny_na_novyj_god</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Алкоголь на новый год: меньше, но крепче</title>
+      <link>https://kontur.ru/press/news/82963-alkogol_na_novyj_god_menshe_no_krepche</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Динамика регистрации, ликвидации и банкротств компаний в России</title>
+      <link>https://kontur.ru/press/news/82966-dinamika_registracii_likvidacii_i_bankrotstv</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сколько стоят новогодние закуски</title>
+      <link>https://kontur.ru/press/news/82967-skolko_stoyat_novogodnie_zakuski</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Накроем новогодний стол</title>
+      <link>https://kontur.ru/press/news/83044-nakroem_novogodnij_stol</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Аналитики Контур.Фокуса изучили цветочный бизнес России</title>
+      <link>https://kontur.ru/press/news/83113-cvetochnyy_biznes_rossii</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Что происходит с торговлей бытовыми электротоварами в России</title>
+      <link>https://kontur.ru/press/news/83114-torgovlya_bytovymi_elektrotovarami</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Общепит растет, но не так быстро, как прежде</title>
+      <link>https://kontur.ru/press/news/83181-obshhepit_rastet_no_ne_tak_bystro_kak_prezhde</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Топ-покупок в новогодние праздники: практичность вместо роскоши</title>
+      <link>https://kontur.ru/press/news/83182-top_pokupok_v_novogodnie_prazdniki</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Снег, соль и госзакупки: двойная динамика торгов</title>
+      <link>https://kontur.ru/press/news/83186-sneg_sol_i_goszakupki_dvojnaya_dinamika_torgov</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>ИБ-закупки в 2025 году выросли на 9,3%</title>
+      <link>https://kontur.ru/press/news/83375-ib_zakupki_vyrosli</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Закупки VPN‑сервисов в госсекторе выросли, но объем рынка сократился</title>
+      <link>https://kontur.ru/press/news/83461-zakupki_vpn_servisov_v_gossektore_vyrosli</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>IT‑отрасль</title>
+      <link>https://kontur.ru/press/news/it-otrasl</link>
+      <description>Аналитический материал от Контур. Полный текст по ссылке.</description>
+      <pubDate>Mon, 16 Feb 2026 07:02:22 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
